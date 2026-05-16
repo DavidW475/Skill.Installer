@@ -3,7 +3,7 @@ name: create-installer-skill
 description: "Create a new AI skill in skill-installer format. Use when: creating a new skill, adding a skill to a skill repository, scaffolding a Skill.md with frontmatter, generating skill folder structure with CHANGELOG.md."
 argument-hint: "Skill name and purpose, e.g. 'go-senior-dev — Senior Go developer persona'"
 metadata:
-   version: "1.1.0"
+   version: "1.2.0"
 ---
 
 # Create Skill (skill-installer format)

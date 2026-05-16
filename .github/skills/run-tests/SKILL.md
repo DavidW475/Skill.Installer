@@ -3,7 +3,7 @@ name: run-tests
 description: "Run tests for the skill-installer Go project. Use when: running unit tests, checking test results, verifying build after code changes, running go vet, testing a specific package like internal/skill."
 argument-hint: "Package to test, e.g. 'all' or 'internal/skill' or 'just build'"
 metadata:
-  version: 1.0.0
+   version: "1.0.0"
 ---
 
 # Run Tests — skill-installer
