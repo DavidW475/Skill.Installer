@@ -1,0 +1,30 @@
+---
+name: "{{name}}"
+version: "1.0.0"
+description: "{{description}}"
+author: "{{author}}"
+tags: [{{tags}}]
+min_installer_version: "1.0.0"
+changelog: "CHANGELOG.md"
+---
+
+# {{name}}
+
+## Purpose
+
+{{description}}
+
+## When to Use
+
+- TODO: describe when this skill should be activated
+
+## Behaviour / Persona
+
+- TODO: describe what the agent should do, what persona to assume, or what constraints to follow
+
+## Examples
+
+```
+User: <example prompt>
+Agent: <expected behaviour>
+```
